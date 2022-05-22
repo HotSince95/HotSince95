@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @HotSince95
+- 👋 Hi, I’m Mateo Ahumada, from Argentina.
 - 👀 I’m interested in backend.
 - 🌱 I’m currently learning python!
 - 💞️ I’m looking to collaborate on python projects
-- 📫 How to reach me @boringmate 
+- 📫 How to reach me mahumadabox@gmail.com 
