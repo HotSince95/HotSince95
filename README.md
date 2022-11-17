@@ -1,5 +1,7 @@
-- 👋 Hi, I’m Mateo Ahumada, from Argentina.
-- 👀 I’m interested in backend.
-- 🌱 I’m currently learning python!
-- 💞️ I’m looking to collaborate on python projects
-- 📫 How to reach me mahumadabox@gmail.com 
+Hello! My name is Mateo Ahumada
+
+Im learning to code with JAVA - MYSQL - NODEJS - JAVASCRIPT 
+
+At the moment im using MySqlWorkbench, IntellijIDE and VSC for code! 
+
+
